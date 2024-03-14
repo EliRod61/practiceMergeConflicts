@@ -1,0 +1,7 @@
+Merge conflicts are when two or more members try to make changes on the same line or same information in a shared file/project. Since the tool is not smart enough to decide which edit to commit to, it throws an error and we must deal with it manually(merge).
+
+  My name is ELikson.
+  My favorite number is: 61
+  I like to play games and code!
+  Introduction to Programming is my favorite class!
+  
